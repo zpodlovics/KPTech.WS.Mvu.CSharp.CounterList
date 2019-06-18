@@ -1,3 +1,10 @@
+// ---------------------------------------------------------------------------
+// Copyright (c) 2019, Zoltan Podlovics, KP-Tech Kft. All Rights Reserved.
+//
+// Licensed under the Apache License, Version 2.0. See LICENSE.md in the 
+// project root for license information.
+// ---------------------------------------------------------------------------
+
 using System;
 using WebSharper;
 using WebSharper.UI;
